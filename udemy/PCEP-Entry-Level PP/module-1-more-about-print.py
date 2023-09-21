@@ -1,0 +1,1 @@
+print('I\'m studying PY','\nand having fun')
