@@ -1,0 +1,1 @@
+print(2**2**3) # it starts from the right to the left only for power operator
